@@ -7,7 +7,7 @@
     <style>
         body {
             margin: 0;
-            background-color: #6da7e0; /* Light background */
+            background-color: #f0f4f8; /* Light background */
             display: flex;
             justify-content: center;
             align-items: center;
@@ -30,7 +30,7 @@
             font-style: italic;
             margin-bottom: 20px;
         }
-        ul { 
+        ul {
             text-align: left;
             padding-left: 20px;
             margin-bottom: 25px;
@@ -67,7 +67,7 @@
 
 <div class="card">
     <h1>Junior Software Engineer</h1>
-    <p><strong>Name:</strong> Renz Tyron Uchi </p>
+    <p><strong>Name:</strong> [Your Name Here]</p>
     <p class="bio">"Ready to learn PHP and MySQL this semester!"</p>
 
     <h3>Current Tech Stack:</h3>
@@ -94,5 +94,3 @@
 
 </body>
 </html>
-
-
